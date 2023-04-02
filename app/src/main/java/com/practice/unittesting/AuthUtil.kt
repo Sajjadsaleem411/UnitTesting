@@ -1,7 +1,7 @@
 package com.practice.unittesting
 
 object AuthUtil {
-    val users = listOf("Sajjad", "Muhammad", "Abid")
+    private val users = listOf("Sajjad", "Muhammad", "Abid")
 
     fun signUp(
         userName: String,
