@@ -1,4 +1,4 @@
-package com.practice.unittesting
+package com.practice.unittesting.utils
 
 import java.util.Locale
 
